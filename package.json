@@ -1,5 +1,8 @@
 {
-  "devDependencies": {
-    "mdx-deck": "^4.1.1"
-  }
+	"devDependencies": {
+		"mdx-deck": "^4.1.1"
+	},
+	"dependencies": {
+		"graphql": "^15.0.0"
+	}
 }
