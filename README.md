@@ -1,5 +1,9 @@
 # mdx-deck
 
+> [!CAUTION]
+> 2021 年より、開発が止まっているため使用を断念
+> 使用する場合は deprecated になっているパッケージを使用する必要がある
+
 [jxnblk/mdx-deck: ♠️ React MDX-based presentation decks](https://github.com/jxnblk/mdx-deck)
 
 mdx-deck は mdx ベースのスライド作成 Node.js ライブラリ
